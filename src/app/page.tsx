@@ -7,8 +7,8 @@ export default function Home() {
       <div>
         <h2>
           <span>
-            Next.js 14 web app to be used to connect <br/>
-            to Cloudflare services. 
+            Next.js 14 web app to be used for sending emails <br/>
+            using the Resend.com email services. 
           </span>
         </h2>
       </div>
